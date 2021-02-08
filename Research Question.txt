@@ -1,5 +1,0 @@
-what percent of existing customer and attrited customer? 
-Existing customer : 83.93% , attrited customer : 16.07%
-how many customers have inactive account?
-
-how much credit limit 
